@@ -1,16 +1,28 @@
-### Hi there 👋
+<h3 align="center">
+  <samp>&gt; Hi there 👋 I'm Dmitry!</samp>
+</h3>
 
-<!--
-**DimaKabanov/DimaKabanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>
+    「 I am a front-end web developer from <a target="_blank" href="https://kontur.ru/">Kontur</a> 」
+  </samp>
+  <br>
+  <br>
+ 
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img alt="Vue js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+  <img alt="Jest" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+  <img alt="Jest" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img alt="Dmitry's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DimaKabanov&count_private=true&show_icons=true" height="160">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaKabanov&hide=TeX&layout=compact" height="160">
+</p>
